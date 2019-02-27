@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.newsworth.deserializer.NWAddtoplaylistDeserializer;
 import com.nw.minibean.NWMinAddToPlayList;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class AddtoplaylistkafkaApplication {
 
 	public static void main(String[] args) {
